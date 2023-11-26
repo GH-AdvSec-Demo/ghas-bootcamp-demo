@@ -1,0 +1,4 @@
+name: "My CodeQL config"
+
+queries:
+    - uses: <insert your query suite>
